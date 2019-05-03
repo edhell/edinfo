@@ -1,2 +1,1 @@
-# edinfo
-edinfo infos
+edhell.ddns.net #1
